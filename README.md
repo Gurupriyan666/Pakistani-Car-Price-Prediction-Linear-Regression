@@ -41,87 +41,87 @@ The dataset contains Pakistani car information including:
 
 ⚙️ Project Workflow
 
-Data Loading & Cleaning
+* Data Loading & Cleaning
 
-Exploratory Data Analysis
+* Exploratory Data Analysis
 
-Feature Encoding
+* Feature Encoding
 
-Train-Test Split
+* Train-Test Split
 
-Linear Regression Model Training
+* Linear Regression Model Training
 
-Prediction Generation
+* Prediction Generation
 
-Model Evaluation
+* Model Evaluation
 
-Visualization
+* Visualization
 
-Insight Extraction
+* Insight Extraction
 
 📊 Visualizations Used
 
-Price Distribution
+* Price Distribution
 
-Price vs Year
+* Price vs Year
 
-Average Price by Fuel Type
+* Average Price by Fuel Type
 
-Actual vs Predicted Prices
+* Actual vs Predicted Prices
 
-Residual Plot
+* Residual Plot
 
 🔍 Key Insights
 
-Linear Regression captures general pricing trends.
+1. Linear Regression captures general pricing trends.
 
-High-priced cars are under-predicted.
+2. High-priced cars are under-predicted.
 
-Low-priced cars are sometimes over-predicted.
+3. Low-priced cars are sometimes over-predicted.
 
-Year is the strongest influencing feature.
+4. Year is the strongest influencing feature.
 
-Data skewness and outliers affect model accuracy.
+5. Data skewness and outliers affect model accuracy.
 
-Linear Regression works best as a baseline model.
+6. Linear Regression works best as a baseline model.
 
 ⚠️ Limitations
 
-Linear assumption restricts performance.
+1. Linear assumption restricts performance.
 
-Sensitive to outliers.
+2. Sensitive to outliers.
 
-Limited feature set.
+3. Limited feature set.
 
-Categorical encoding impact.
+4. Categorical encoding impact.
 
 🚀 Future Improvements
 
-Add mileage, engine size, transmission.
+* Add mileage, engine size, transmission.
 
-Use One-Hot Encoding.
+* Use One-Hot Encoding.
 
-Apply Polynomial Regression.
+* Apply Polynomial Regression.
 
-Compare with Random Forest and XGBoost.
+* Compare with Random Forest and XGBoost.
 
 🧪 Learning Outcome
 
-This project helped me understand:
+1. This project helped me understand:
 
-Machine Learning workflow
+2. Machine Learning workflow
 
-Linear Regression theory and practice
+3. Linear Regression theory and practice
 
-Data preprocessing importance
+4. Data preprocessing importance
 
-Feature engineering
+5. Feature engineering
 
-Model evaluation
+5. Model evaluation
 
-Visualization interpretation
+6. Visualization interpretation
 
-Real-world ML challenges
+7. Real-world ML challenges
 
 🏁 Conclusion
 

@@ -2,6 +2,7 @@
 Car price prediction using Linear Regression with real-world Pakistani car data.
 
 📘 Pakistani Car Price Prediction using Linear Regression
+
 📌 Project Overview
 
 This project demonstrates how Machine Learning can be learned through research and applied to a real-world problem. Linear Regression is used to predict car prices based on Pakistani car market data.

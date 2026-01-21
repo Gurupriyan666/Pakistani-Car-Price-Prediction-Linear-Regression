@@ -11,15 +11,15 @@ The goal of this project is to understand Linear Regression practically, analyze
 
 🎯 Objective
 
-Learn Machine Learning through research.
+* Learn Machine Learning through research.
 
-Apply Linear Regression in a real project.
+* Apply Linear Regression in a real project.
 
-Predict car prices using real-world data.
+* Predict car prices using real-world data.
 
-Analyze model behavior and limitations.
+* Analyze model behavior and limitations.
 
-Connect ML theory with real results.
+* Connect ML theory with real results.
 
 🧠 Machine Learning Algorithm
 
@@ -31,13 +31,13 @@ Linear Regression is a supervised machine learning algorithm used to predict con
 
 The dataset contains Pakistani car information including:
 
-Car Model
+* Car Model
 
-Manufacturing Year
+* Manufacturing Year
 
-Fuel Type
+* Fuel Type
 
-Car Price
+* Car Price
 
 ⚙️ Project Workflow
 

@@ -130,4 +130,4 @@ This project successfully demonstrates learning Machine Learning by research and
 🧑‍💻 Author
 
 Gurupriyan K
-Aspiring Data Analyst / Data Scientist
+Data Analyst
